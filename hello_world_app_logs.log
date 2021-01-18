@@ -1,0 +1,16 @@
+2021-01-17 03:39:20,944 - 45616 - __main__ - DEBUG - This is a debug message
+2021-01-17 03:39:20,944 - 45616 - __main__ - INFO - This is an info message
+2021-01-17 03:39:20,944 - 45616 - __main__ - WARNING - This is a warning message
+2021-01-17 03:39:20,944 - 45616 - __main__ - ERROR - This is an error message
+2021-01-17 03:39:20,944 - 45616 - __main__ - CRITICAL - This is a critical messgecd ..
+
+2021-01-17 05:41:02,884 - 56959 - __main__ - DEBUG - This is a debug message
+2021-01-17 05:41:02,884 - 56959 - __main__ - INFO - This is an info message
+2021-01-17 05:41:02,885 - 56959 - __main__ - WARNING - This is a warning message
+2021-01-17 05:41:02,885 - 56959 - __main__ - ERROR - This is an error message
+2021-01-17 05:41:02,885 - 56959 - __main__ - CRITICAL - This is a critical messge
+2021-01-17 05:48:45,156 - 57855 - __main__ - DEBUG - This is a debug message
+2021-01-17 05:48:45,157 - 57855 - __main__ - INFO - This is an info message
+2021-01-17 05:48:45,157 - 57855 - __main__ - WARNING - This is a warning message
+2021-01-17 05:48:45,157 - 57855 - __main__ - ERROR - This is an error message
+2021-01-17 05:48:45,157 - 57855 - __main__ - CRITICAL - This is a critical messge
