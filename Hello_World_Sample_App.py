@@ -24,8 +24,18 @@ logger.warning('This is a warning message')
 logger.error('This is an error message')
 logger.critical('This is a critical messge')
 
+#printing the helloworld environment variable
+import os
+ 
+#print(os.environ)
 
+#Set environment variables
+os.environ['HELLO_WORLD'] = 'Sandeep'
 
+#get environment variable 
+USER = os.getenv('HELLO_WORLD')
+
+print(USER)
 
 
 
