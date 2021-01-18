@@ -37,7 +37,7 @@ USER = os.getenv('HELLO_WORLD')
 
 print(USER)
 
-
+#set the environment variable using ansible 
 
 
 
