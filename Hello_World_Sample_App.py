@@ -1,5 +1,9 @@
 #printing hello world
 my_name = "sandeep"
+
+
+
+
 print("Hello world and welcome " + my_name + "!")
 import logging
 #set log level
@@ -29,15 +33,17 @@ import os
  
 #print(os.environ)
 
-#Set environment variables
-os.environ['HELLO_WORLD'] = 'Sandeep'
+#set environment variabl
+os.environ['HELLO_WORLD'] = 'Hello World'
 
 #get environment variable 
-USER = os.getenv('HELLO_WORLD')
+ENV_VAR = os.getenv('HELLO_WORLD')
 
-print(USER)
+print(ENV_VAR)
 
 #set the environment variable using ansible 
+
+
 
 
 
